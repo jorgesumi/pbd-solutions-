@@ -1,0 +1,41 @@
+public class One {
+  public static void main(string[]args) {
+    System.out.println("Hello");
+    System.out.println("World");
+  }
+}
+
+Output:
+Hello
+World
+
+#2
+Output:
+2 + 3
+
+#3
+Output:
+6
+
+#4
+Output:
+World
+
+#5
+Output:
+HelloWorld
+
+#6
+Output:
+Hello
+
+#7
+Output:
+
+
+#8
+Output:
+
+
+#9
+Output:
