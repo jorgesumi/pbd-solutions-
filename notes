@@ -1,0 +1,15 @@
+int = -/+ numbers
+double = decimals
+char = characters 
+string = multiple characters
+boolean = true or false statments
+
+varibles first letter always lowercase
+varibles succsesive word is camelCase
+make varible names descriptive
+
+string firstName; //declaring varible
+firstName = "Jorge"; //assigning varible
+
+string firstName = "Jorge"; //faster way of declaring and assigning
+int age = (17);
