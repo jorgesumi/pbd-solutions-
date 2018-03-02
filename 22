@@ -1,0 +1,18 @@
+import java.util.Scanner;
+
+class HowOldAreYou {
+  public static void main(String[] args) {
+    Scanner sc = new Scanner(system.in);
+    
+    System.out.println("Whats your Name");
+    string name = sc.next;
+    System.out.println("Hi " + ", how old are you?");
+    int age = sc.nextInt;
+    If(age >= 16){
+      System.out.println("Congratulations! You can drive!");
+    } else If () {
+      int years = 16 - age;
+      System.out.println("Sorry, you have to wait " + years + " before you can drive!");
+    }
+  }
+}
